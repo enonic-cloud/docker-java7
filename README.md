@@ -1,4 +1,4 @@
-# Base image for java 8
+# Base image for java 7
 Generic base image for java 7
 
 ## Build local
